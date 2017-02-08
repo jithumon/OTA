@@ -10,7 +10,7 @@
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                description="Download latest OpenGApps">http://opengapps.org/?api=7.1.1&amp;arch=arm64&amp;variant=pico</OpenGappsUrl>
 	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
